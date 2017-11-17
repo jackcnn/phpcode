@@ -15,7 +15,7 @@ return array (
 				'DB_TYPE' => 'mysqlpdo',
 				'DB_HOST' => 'localhost',
 				'DB_USER' => 'root',
-				'DB_PWD' => 'asdfgh',
+				'DB_PWD' => 'root',
 				'DB_PORT' => '3306',
 				'DB_NAME' => 'cp',
 				'DB_CHARSET' => 'utf8',
